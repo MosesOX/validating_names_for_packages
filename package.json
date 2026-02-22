@@ -1,20 +1,22 @@
 {
   "name": "void-whisperer-99",
   "version": "1.0.0",
-  "description": "A sample project featuring a collection of uniquely named placeholder dependencies.",
+  "description": "A sample npm project with validated dependencies.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "sample",
-    "npm",
-    "random"
-  ],
+  "keywords": ["sample", "npm"],
   "author": "Dev Explorer",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "ms": "^2.1.3",
+    "has": "^1.0.3",
+    "once": "^1.4.0"
+  },
+  "optionalDependencies": {
     "neon-badger-flux": "^1.2.0",
     "quantum-muffin-js": "^0.4.5",
     "pixel-glitch-harvester": "^2.1.0",
