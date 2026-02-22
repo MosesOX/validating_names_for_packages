@@ -1,0 +1,29 @@
+{
+  "name": "void-whisperer-99",
+  "version": "1.0.0",
+  "description": "A sample project featuring a collection of uniquely named placeholder dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "random"
+  ],
+  "author": "Dev Explorer",
+  "license": "MIT",
+  "dependencies": {
+    "neon-badger-flux": "^1.2.0",
+    "quantum-muffin-js": "^0.4.5",
+    "pixel-glitch-harvester": "^2.1.0",
+    "velvet-thunder-utils": "^1.0.3",
+    "cyber-hermit-crab": "^3.0.0",
+    "starlight-noodle-engine-3czDbfinlf01uW58": "^0.9.1",
+    "grumpy-cyborg-parser-abxabxabxabxabxabxabxabxabxabxabxabxabxabxabx-3czDbfinlf01uW58": "^1.5.2",
+    "frozen-logic-vault": "^4.2.0",
+    "echo-slug-validator": "^1.1.1",
+    "crimson-pixel-drift": "^2.0.4"
+  }
+}
